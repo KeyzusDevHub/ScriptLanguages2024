@@ -1,0 +1,44 @@
+version: "3.1"
+
+stories:
+
+- story: only comp info
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: comp_question
+  - action: comp_list
+  - action: utter_is_that_all
+  - intent: approve
+  - action: utter_goodbye
+
+- story: add player to comp
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: comp_enlist
+  - action: comp_list
+  - action: utter_which_comp
+  - intent: comp_pick
+  - action: enlist_complete
+  - action: utter_is_that_all
+  - intent: approve
+  - action: utter_goodbye
+
+- story: full path
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: comp_enlist
+  - action: comp_list
+  - action: utter_which_comp
+  - intent: comp_pick
+  - action: enlist_complete
+  - action: utter_is_that_all
+  - intent: deny
+  - action: utter_what_more
+  - intent: all_comp_data
+  - action: list_all_data
+  - action: utter_is_that_all
+  - intent: approve
+  - action: utter_goodbye

@@ -1,0 +1,54 @@
+#### This file contains tests to evaluate that your bot behaves as expected.
+#### If you want to learn more, please see the docs: https://rasa.com/docs/rasa/testing-your-assistant
+
+stories:
+
+- story: all tounaments
+  steps:
+  - user: |
+      hello there!
+    intent: greet
+  - action: utter_greet
+  - user: |
+      Show me all tournament names
+    intent: comp_ask
+  - action: comp_list
+  - action: is_that_all
+  - user: |
+      Thanks
+    intent: approve
+  - action: utter_goodbye
+
+- story: all data
+  steps:
+  - user: |
+      hello
+    intent: greet
+  - action: utter_greet
+  - user: |
+      I want to know everything
+    intent: all_comp_data
+  - action: list_all_data
+  - action: is_that_all
+  - user: |
+      yes
+    intent: approve
+  - action: utter_goodbye
+
+- story: hello goodbye
+  steps:
+  - user: |
+      hi
+    intent: greet
+  - action: utter_greet
+  - user: |
+      Thank you
+    intent: approve
+  - action: utter_goodbye
+
+- story: say goodbye
+  steps:
+  - user: |
+      Thanks
+    intent: approve
+  - action: utter_goodbye

@@ -1,0 +1,64 @@
+{
+    "Tournaments": {
+        "FirstOfAll": {
+            "Players": {
+                "1": "Dan Vijk",
+                "2": "Melonel Lessi",
+                "3": "No-body Cares",
+                "4": "No God please no"
+            },
+            "Current state": "Semi-finals",
+            "Matches": {
+                "1": "Dan Vijk vs No-body Cares. Winner: TBD",
+                "2": "Melonel Lessi vs No God please no. Winner: TBD"
+            }
+        },
+        "DoubleKillMattersMost": {
+            "Players": {
+                "1": "Not that s1mple",
+                "2": "Blame teammates",
+                "3": "Dont Scream",
+                "4": "Snacks",
+                "5": "Bash'a Triseps"
+            },
+            "Current state": "Enlisting",
+            "Matches": {
+                "1": "TBD vs TBD. Winner: TBD",
+                "2": "TBD vs TBD. Winner: TBD",
+                "3": "TBD vs TBD. WInner: TBD"
+            }
+        },
+        "ThreePlusTwoIsFive": {
+            "Players": {
+                "1": "Fake her",
+                "2": "Caps lock",
+                "3": "Jan cause",
+                "4": "Got no Perkz",
+                "5": "Python enjoyer"
+            },
+            "Current state": "Ended. Winner - Python enjoyer",
+            "Matches": {
+                "1": "Fake her vs Caps lock. Winner: Caps lock",
+                "2": "Jan cause vs Python enjoyer. Winner: Python enjoyer",
+                "3": "Got no Perkz vs Python enjoyer. Winner: Python enjoyer",
+                "4": "Caps lock vs Python enjoyer. Winner: Python enjoyer"
+            }
+        },
+        "SheWasOnlyFour": {
+            "Players": {
+                "1": "Carry me",
+                "2": "Bro its singleplayer",
+                "3": "Why always me",
+                "4": "Look son, idiots",
+                "5": "Pepecry",
+                "6": "Not yet there"
+            },
+            "Current state": "Enlisting",
+            "Matches": {
+                "1": "TBD vs TBD. Winner: TBD",
+                "2": "TBD vs TBD. Winner: TBD",
+                "3": "TBD vs TBD. Winner: TBD"
+            }
+        }
+    }
+}

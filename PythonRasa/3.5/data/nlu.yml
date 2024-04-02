@@ -1,0 +1,141 @@
+version: "3.1"
+
+nlu:
+- intent: greet
+  examples: |
+    - hey
+    - hello
+    - hi
+    - hello there
+    - good morning
+    - good evening
+    - moin
+    - hey there
+    - let's go
+    - hey dude
+    - goodmorning
+    - goodevening
+    - good afternoon
+
+- intent: goodbye
+  examples: |
+    - cu
+    - good by
+    - cee you later
+    - good night
+    - bye
+    - goodbye
+    - have a nice day
+    - see you around
+    - bye bye
+    - see you later
+
+- intent: approve
+  examples: |
+    - yes
+    - y
+    - indeed
+    - of course
+    - that sounds good
+    - correct
+    - fine
+    - ok
+    - nice
+    - good job
+    - that is good
+    - fine by me
+    - thank you
+    - thanks
+    - all I wanted is there
+
+- intent: deny
+  examples: |
+    - no
+    - n
+    - never
+    - I don't think so
+    - don't like that
+    - no way
+    - not really
+    - that is wrong
+    - not like this
+    - wrong
+    - nope
+    - deny
+
+- intent: comp_question
+  examples: |
+    - what are the competitions?
+    - where can I join?
+    - what are eligible comps?
+    - do you have tournaments?
+    - what are comp names?
+    - can you list all competitions?
+    - can you list all contest?
+    - can you tell me all tournament names?
+    - what are eligible contests?
+    - comp names?
+    - any comps?
+    - any tounaments?
+    - contest names?
+    - all contests?
+    - all tournaments?
+
+- intent: comp_enlist
+  examples: | 
+    - I wanna join competition
+    - I want to enlist to contest
+    - I want to enter tournament
+    - tournament join
+    - enlist competition
+    - join fight
+    - I want to win
+    - Get me to competition
+    - Let me fight
+    - Let me play
+    - Let me join
+    - Enlist
+    - Join
+    - Enter
+
+- intent: comp_pick
+  examples: | 
+    - I want to join [Bad CS2.0 Games](tournament)
+    - I want to enter [Joe Mater Tournament](tournament)
+    - I really want to fight in [Merry Killmas](tournament)
+    - Let me join [Only Headshots](tournament)
+    - Enter [Lord of Fights](tournament)
+    - Enlist me to [Joe Trump USA Competition](tournament)
+    - Join [No math needed Fight](tournament)
+    - [The one and only alive - Fortnite](tournament)
+    - Write my name to [Cartoon death ultimate 2.0](tournament)
+
+- intent: all_comp_data
+  examples: | 
+    - I want to know everything you got
+    - Show me all data
+    - All tournaments and players
+    - All stats
+    - Show everything
+    - Let me see all
+    - One to rule them all
+    - Show me tournaments and players
+    - Tournament and games status
+    - Competition and player status
+    - Please show me all
+    - All players and tournaments
+    - All data
+    - Everything you know
+
+- intent: comp_ask
+  examples: | 
+    - List me all tournaments
+    - Show all tournaments
+    - All tournaments names
+    - All competitions there
+    - All comps to join
+    - All comp names
+    - Any tournaments?
+    - Any fights?
+    - Anything there for me?
+    - Names comps
