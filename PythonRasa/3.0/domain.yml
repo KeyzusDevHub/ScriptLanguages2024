@@ -3,31 +3,55 @@ version: "3.1"
 intents:
   - greet
   - goodbye
-  - affirm
+  - approve
   - deny
-  - mood_great
-  - mood_unhappy
-  - bot_challenge
+  - comp_question
+  - comp_enlist
+  - comp_pick
+  - all_comp_data
+  - comp_ask
 
 responses:
   utter_greet:
-  - text: "Hey! How are you?"
+  - text: "Hey! How can I help you?"
+  - text: "Hello! I'm Tournament bot, what can I do for you?"
 
-  utter_cheer_up:
-  - text: "Here is something to cheer you up:"
-    image: "https://i.imgur.com/nGF1K8f.jpg"
+  utter_is_that_all:
+  - text: "Is that all?"
+  - text: "Is that everything you wanted?"
+  - text: "Is that all you needed?"
 
-  utter_did_that_help:
-  - text: "Did that help you?"
+  utter_what_more:
+  - text: "What else do you need?"
+  - text: "What more I can do for you?"
+  - text: "What else do you want me to do?"
+  - text: "What else is on your mind?"
 
-  utter_happy:
-  - text: "Great, carry on!"
+  utter_which_comp:
+  - text: "Which competition you want to join?"
+  - text: "Which one should I add you to?"
+  - text: "To which tournament shoud I enlist your name?"
 
   utter_goodbye:
   - text: "Bye"
+  - text: "Have a nice day!"
+  - text: "Glad I helped"
+  - text: "Good luck and bye!"
 
-  utter_iamabot:
-  - text: "I am a bot, powered by Rasa."
+entities:
+- tournament
+
+slots:
+  tournament:
+    type: text
+    mappings:
+      - type: from_entity
+        entity: tournament
+
+actions:
+  - comp_list
+  - list_all_data
+  - enlist_complete
 
 session_config:
   session_expiration_time: 60

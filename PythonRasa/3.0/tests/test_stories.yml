@@ -2,90 +2,53 @@
 #### If you want to learn more, please see the docs: https://rasa.com/docs/rasa/testing-your-assistant
 
 stories:
-- story: happy path 1
-  steps:
-  - user: |
-      hello there!
-    intent: greet
-  - action: utter_greet
-  - user: |
-      amazing
-    intent: mood_great
-  - action: utter_happy
 
-- story: happy path 2
+- story: all tounaments
   steps:
   - user: |
       hello there!
     intent: greet
   - action: utter_greet
   - user: |
-      amazing
-    intent: mood_great
-  - action: utter_happy
+      Show me all tournament names
+    intent: comp_ask
+  - action: comp_list
+  - action: is_that_all
   - user: |
-      bye-bye!
-    intent: goodbye
+      Thanks
+    intent: approve
   - action: utter_goodbye
 
-- story: sad path 1
+- story: all data
   steps:
   - user: |
       hello
     intent: greet
   - action: utter_greet
   - user: |
-      not good
-    intent: mood_unhappy
-  - action: utter_cheer_up
-  - action: utter_did_that_help
+      I want to know everything
+    intent: all_comp_data
+  - action: list_all_data
+  - action: is_that_all
   - user: |
       yes
-    intent: affirm
-  - action: utter_happy
-
-- story: sad path 2
-  steps:
-  - user: |
-      hello
-    intent: greet
-  - action: utter_greet
-  - user: |
-      not good
-    intent: mood_unhappy
-  - action: utter_cheer_up
-  - action: utter_did_that_help
-  - user: |
-      not really
-    intent: deny
+    intent: approve
   - action: utter_goodbye
 
-- story: sad path 3
+- story: hello goodbye
   steps:
   - user: |
       hi
     intent: greet
   - action: utter_greet
   - user: |
-      very terrible
-    intent: mood_unhappy
-  - action: utter_cheer_up
-  - action: utter_did_that_help
-  - user: |
-      no
-    intent: deny
+      Thank you
+    intent: approve
   - action: utter_goodbye
 
 - story: say goodbye
   steps:
   - user: |
-      bye-bye!
-    intent: goodbye
+      Thanks
+    intent: approve
   - action: utter_goodbye
-
-- story: bot challenge
-  steps:
-  - user: |
-      are you a bot?
-    intent: bot_challenge
-  - action: utter_iamabot

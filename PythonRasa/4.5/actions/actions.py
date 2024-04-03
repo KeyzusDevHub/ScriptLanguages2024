@@ -55,7 +55,7 @@ class ListAllData(Action):
             tracker: Tracker,
             domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
         
-        dispatcher.utter_message(text="None")
+        dispatcher.utter_message(text="Placeholder - ListAllData")
         
         return []
 
