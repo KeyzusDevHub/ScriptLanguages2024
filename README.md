@@ -80,9 +80,9 @@ https://github.com/KeyzusDevHub/ScriptLanguages2024/assets/147584729/2d06dba8-61
 
 [:white_check_mark: 4.0 - Has a moat and a bridge](https://github.com/KeyzusDevHub/ScriptLanguages2024/tree/main/MinecraftJS/4.0)
 
-[:white_check_mark: 4.5 - Has a gate and minimum 2 towers](https://github.com/KeyzusDevHub/ScriptLanguages2024/tree/main/MinecraftJS/4.5)
+[:white_check_mark: 4.5 - Has a gate and at least 2 towers](https://github.com/KeyzusDevHub/ScriptLanguages2024/tree/main/MinecraftJS/4.5)
 
-[:white_check_mark: 5.0 - Castle has minimum two levels (floors) on which player can get from outside](https://github.com/KeyzusDevHub/ScriptLanguages2024/tree/main/MinecraftJS/5.0)
+[:white_check_mark: 5.0 - Castle has at least two levels (floors) on which player can get from outside](https://github.com/KeyzusDevHub/ScriptLanguages2024/tree/main/MinecraftJS/5.0)
 
 Video of working script:
 
