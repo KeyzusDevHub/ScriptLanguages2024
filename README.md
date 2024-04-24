@@ -27,6 +27,22 @@ Nagranie działającego skryptu:
 
 https://github.com/KeyzusDevHub/ScriptLanguages2024/assets/147584729/2d06dba8-612a-4cad-85ec-3267174dd6d3
 
+**Zadanie 3** JS: Zamek w Minecraft
+
+[:white_check_mark: 3.0 - Prosty zamek wykorzystując minimum 5 różnych rodzajów bloków](https://github.com/KeyzusDevHub/ScriptLanguages2024/tree/main/MinecraftJS/3.0)
+
+[:white_check_mark: 3.5 - Posiada minimum 4 okna](https://github.com/KeyzusDevHub/ScriptLanguages2024/tree/main/MinecraftJS/3.5)
+
+[:white_check_mark: 4.0 - Posiada fosę oraz most](https://github.com/KeyzusDevHub/ScriptLanguages2024/tree/main/MinecraftJS/4.0)
+
+[:white_check_mark: 4.5 - Posiada bramę oraz minimum 2 wieże](https://github.com/KeyzusDevHub/ScriptLanguages2024/tree/main/MinecraftJS/4.5)
+
+[:white_check_mark: 5.0 - Zamek ma minimum dwa poziomy (piętra) na które można wejść z zewnątrz](https://github.com/KeyzusDevHub/ScriptLanguages2024/tree/main/MinecraftJS/5.0)
+
+Nagranie działającego skryptu:
+
+https://github.com/KeyzusDevHub/ScriptLanguages2024/assets/147584729/d24d2ca2-3713-40d6-bad6-3e27777fa51d
+
 # Script languages in video games 2024
 **Task 1** Bash TicTacToe
 
@@ -40,7 +56,7 @@ Video of working script:
 
 https://github.com/KeyzusDevHub/ScriptLanguages2024/assets/147584729/5f9cabc7-5ae9-45fa-91d8-444cc07b582d
 
-**Zadanie 2** Python Rasa Chatbot E-sport
+**Task 2** Python Rasa Chatbot E-sport
 
 [:white_check_mark: 3.0 - Has implemented minimum of 3 paths (stories)](https://github.com/KeyzusDevHub/ScriptLanguages2024/tree/main/PythonRasa/3.0)
 
@@ -55,3 +71,19 @@ https://github.com/KeyzusDevHub/ScriptLanguages2024/assets/147584729/5f9cabc7-5a
 Video of working script:
 
 https://github.com/KeyzusDevHub/ScriptLanguages2024/assets/147584729/2d06dba8-612a-4cad-85ec-3267174dd6d3
+
+**Task 3** JS: Castle in Minecraft
+
+[:white_check_mark: 3.0 - Simple castle using minimum 5 different block types](https://github.com/KeyzusDevHub/ScriptLanguages2024/tree/main/MinecraftJS/3.0)
+
+[:white_check_mark: 3.5 - Has at least 4 windows](https://github.com/KeyzusDevHub/ScriptLanguages2024/tree/main/MinecraftJS/3.5)
+
+[:white_check_mark: 4.0 - Has a moat and a bridge](https://github.com/KeyzusDevHub/ScriptLanguages2024/tree/main/MinecraftJS/4.0)
+
+[:white_check_mark: 4.5 - Has a gate and minimum 2 towers](https://github.com/KeyzusDevHub/ScriptLanguages2024/tree/main/MinecraftJS/4.5)
+
+[:white_check_mark: 5.0 - Castle has minimum two levels (floors) on which player can get from outside](https://github.com/KeyzusDevHub/ScriptLanguages2024/tree/main/MinecraftJS/5.0)
+
+Video of working script:
+
+https://github.com/KeyzusDevHub/ScriptLanguages2024/assets/147584729/d24d2ca2-3713-40d6-bad6-3e27777fa51d
