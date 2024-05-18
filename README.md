@@ -43,6 +43,22 @@ Nagranie działającego skryptu:
 
 https://github.com/KeyzusDevHub/ScriptLanguages2024/assets/147584729/d24d2ca2-3713-40d6-bad6-3e27777fa51d
 
+**Zadanie 4** Lua: Tetris
+
+[:white_check_mark: 3.0 - Postawowa wersja dekstopowa z obsługą na klawiaturze - minimum 4 rodzaje klocków](https://github.com/KeyzusDevHub/ScriptLanguages2024/tree/main/TetrisLua/3.0)
+
+[:white_check_mark: 3.5 - Zapis i odczyt gier](https://github.com/KeyzusDevHub/ScriptLanguages2024/tree/main/TetrisLua/3.5)
+
+[:white_check_mark: 4.0 - Dodanie efektów dźwiękowych przy akcjach](https://github.com/KeyzusDevHub/ScriptLanguages2024/tree/main/TetrisLua/4.0)
+
+[:white_check_mark: 4.5 - Dodanie animacji przy zbijaniu klocków](https://github.com/KeyzusDevHub/ScriptLanguages2024/tree/main/TetrisLua/4.5)
+
+[:white_check_mark: 5.0 - Wersja na iOS lub Android z implementacją touch zamiast klawiatury](https://github.com/KeyzusDevHub/ScriptLanguages2024/tree/main/TetrisLua/5.0)
+
+Nagranie działającego skryptu:
+
+https://github.com/KeyzusDevHub/ScriptLanguages2024/assets/147584729/b694be16-f8b4-4509-9b1b-462187cd5825
+
 # Script languages in video games 2024
 **Task 1** Bash TicTacToe
 
@@ -87,3 +103,19 @@ https://github.com/KeyzusDevHub/ScriptLanguages2024/assets/147584729/2d06dba8-61
 Video of working script:
 
 https://github.com/KeyzusDevHub/ScriptLanguages2024/assets/147584729/d24d2ca2-3713-40d6-bad6-3e27777fa51d
+
+**Task 4** Lua: Tetris
+
+[:white_check_mark: 3.0 - Basic desktop version with keyboard control - at least 4 block types](https://github.com/KeyzusDevHub/ScriptLanguages2024/tree/main/TetrisLua/3.0)
+
+[:white_check_mark: 3.5 - Save and load system](https://github.com/KeyzusDevHub/ScriptLanguages2024/tree/main/TetrisLua/3.5)
+
+[:white_check_mark: 4.0 - Addition of sound effects during actions](https://github.com/KeyzusDevHub/ScriptLanguages2024/tree/main/TetrisLua/4.0)
+
+[:white_check_mark: 4.5 - Addition of animation during block break](https://github.com/KeyzusDevHub/ScriptLanguages2024/tree/main/TetrisLua/4.5)
+
+[:white_check_mark: 5.0 - iOS or Android version with touch control implementation](https://github.com/KeyzusDevHub/ScriptLanguages2024/tree/main/TetrisLua/5.0)
+
+Video of working script:
+
+https://github.com/KeyzusDevHub/ScriptLanguages2024/assets/147584729/b694be16-f8b4-4509-9b1b-462187cd5825
