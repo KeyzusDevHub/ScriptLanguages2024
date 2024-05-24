@@ -59,6 +59,27 @@ Nagranie działającego skryptu:
 
 https://github.com/KeyzusDevHub/ScriptLanguages2024/assets/147584729/b694be16-f8b4-4509-9b1b-462187cd5825
 
+**Zadanie 5** Ruby2D: Mario
+
+[:white_check_mark: 3.0 - Należy stworzyć jeden poziom z przeszkodami oraz dziurami w które można wpaść i zginąć](https://github.com/KeyzusDevHub/ScriptLanguages2024/tree/main/MarioRuby/3.0)
+
+[:white_check_mark: 3.5 - Należy dodać opcję zbierania punktów](https://github.com/KeyzusDevHub/ScriptLanguages2024/tree/main/MarioRuby/3.5)
+
+[:white_check_mark: 4.0 - Należy dodać przeciwników, których można zabić oraz 3 życia](https://github.com/KeyzusDevHub/ScriptLanguages2024/tree/main/MarioRuby/4.0)
+
+[:white_check_mark: 4.5 - Ładowanie poziomów z pliku](https://github.com/KeyzusDevHub/ScriptLanguages2024/tree/main/MarioRuby/4.5)
+
+[:white_check_mark: 5.0 - Generator poziomów](https://github.com/KeyzusDevHub/ScriptLanguages2024/tree/main/MarioRuby/5.0)
+
+Nagranie działającego skryptu:
+
+https://github.com/KeyzusDevHub/ScriptLanguages2024/assets/147584729/736dc6df-d7f6-4387-915e-14f93af65efe
+
+
+## Zastrzeżenie
+Autor repozytorium nie posiada autorskich praw do wykorzystywanych w projektach grafik oraz muzyki. Wszystkie zasoby audiowizualne zostały użyte w celach demonstracyjnych, na potrzeby nauki, a twórca kodu nie czerpie żadnych korzyści majątkowych z tytułu stworzonych projektów.
+
+
 # Script languages in video games 2024
 **Task 1** Bash TicTacToe
 
@@ -119,3 +140,22 @@ https://github.com/KeyzusDevHub/ScriptLanguages2024/assets/147584729/d24d2ca2-37
 Video of working script:
 
 https://github.com/KeyzusDevHub/ScriptLanguages2024/assets/147584729/b694be16-f8b4-4509-9b1b-462187cd5825
+
+**Task 5** Ruby2D: Mario
+
+[:white_check_mark: 3.0 - Create one level with obstacles and holes into which player can fall and die](https://github.com/KeyzusDevHub/ScriptLanguages2024/tree/main/MarioRuby/3.0)
+
+[:white_check_mark: 3.5 - Addition of poins collecting](https://github.com/KeyzusDevHub/ScriptLanguages2024/tree/main/MarioRuby/3.5)
+
+[:white_check_mark: 4.0 - Addition of enemies, which player can kill and player health (3 hearts)](https://github.com/KeyzusDevHub/ScriptLanguages2024/tree/main/MarioRuby/4.0)
+
+[:white_check_mark: 4.5 - Addition of loading level from files](https://github.com/KeyzusDevHub/ScriptLanguages2024/tree/main/MarioRuby/4.5)
+
+[:white_check_mark: 5.0 - Addition of level generator](https://github.com/KeyzusDevHub/ScriptLanguages2024/tree/main/MarioRuby/5.0)
+
+Video of working script:
+
+https://github.com/KeyzusDevHub/ScriptLanguages2024/assets/147584729/736dc6df-d7f6-4387-915e-14f93af65efe
+
+## Disclaimer
+Author of this repository has not authors' rights to any of graphic nor audio assets used in projects. All of audiovisual assets were used only for demonstrational and learning purposes. Code's author does not financially benefit from created projects.
